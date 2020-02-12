@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+
+setlist{
+	background-color: #FFB433;	
+}
+song{
+	display: block;
+	margin-bottom: 30pt;
+	margin-left: 0;
+	
+}
+header{
+	font-size: 40px;
+	font-style: italic;
+	font-weight: bold;
+}
+title{
+	display: block;
+	font-size: 25px;
+	margin-bottom: 5pt;
+	color:#7326CB;
+	font-weight: bold;
+	
+}
+artist, musicgenre{
+	display: block;
+}
+
+year{
+	display: block;
+	margin-bottom: 30pt;
+	margin-left: 0;
+}
