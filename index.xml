@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml_assignment.css"?>
+
+<setlist>
+	<header>SETLIST</header>
+	<song> <!-- song #1 -->
+		<title>when the party's over</title>
+		<artist>Billie Eilish</artist>
+		<musicgenre>Pop</musicgenre>
+		<year>2019</year>
+	</song>
+	<song> <!-- song #2 -->
+		<title>Talk</title>
+		<artist>Khalid</artist>
+		<musicgenre>Pop</musicgenre>
+		<year>2019</year>
+	</song>
+	<song> <!-- song #3 -->
+		<title>Wow.</title>
+		<artist>Post Malone</artist>
+		<musicgenre>Pop</musicgenre>
+		<year>2019</year>
+	</song>
+	<song> <!-- song #4 -->
+		<title>7 rings</title>
+		<artist>Ariana Grande</artist>
+		<musicgenre>Pop</musicgenre>
+		<year>2019</year>
+	</song>
+	<song> <!-- song #5 -->
+		<title>Beautiful People</title>
+		<artist>Ed Sheeran (feat. Khalid)</artist>
+		<musicgenre>Pop</musicgenre>
+		<year>2019</year>
+	</song>
+	<song><!-- song #6 -->
+		<title>Candy Paint</title>
+		<artist>Post Malone</artist>
+		<musicgenre>Pop</musicgenre>
+		<year>2018</year>
+	</song>
+	<song> <!-- song #7 -->
+		<title>Lost In Japan</title>
+		<artist>Shawn Mendes</artist>
+		<musicgenre>Pop</musicgenre>
+		<year>2018</year>
+	</song>
+	<song> <!-- song #8 -->
+		<title>Icon</title>
+		<artist>Jaden</artist>
+		<musicgenre>Rap</musicgenre>
+		<year>2018</year>
+	</song>
+	<song><!-- song #9 -->
+		<title>Peach Fuzz</title>
+		<artist>Tyler, The Creator</artist>
+		<musicgenre>Indie</musicgenre>
+		<year>2018</year>
+	</song>
+	<song> <!-- song #10 -->
+		<title>Sorry</title>
+		<artist>Halsey</artist>
+		<musicgenre>Pop</musicgenre>
+		<year>2018</year>
+	</song>
+</setlist>
